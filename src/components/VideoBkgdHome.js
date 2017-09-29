@@ -1,7 +1,7 @@
 import React from 'react'
 import VideoCover from 'react-video-cover'
 
-class VideoBkgdWelcome extends React.Component {
+class VideoBkgdHome extends React.Component {
   state = {
     resizeNotifier: () => {}
   }

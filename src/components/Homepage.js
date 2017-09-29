@@ -1,14 +1,12 @@
 import React from 'react'
-import VideoBkgdWelcome from './VideoBkgdWelcome'
+import VideoBkgdHome from './VideoBkgdHome'
 import Title from '../Title'
-import Welcome from './Welcome'
 
 const Homepage = () => {
   return(
     <div>
-      <VideoBkgdWelcome/>
+      <VideoBkgdHome/>
       <Title />
-      <Welcome />
     </div>
   )
 }
